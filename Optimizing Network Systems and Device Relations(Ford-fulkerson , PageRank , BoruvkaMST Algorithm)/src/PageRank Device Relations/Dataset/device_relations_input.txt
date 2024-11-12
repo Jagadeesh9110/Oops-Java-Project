@@ -1,0 +1,1000 @@
+Smartphone -> Laptop, Microphone
+Smartwatch -> Headphones, Charger
+Webcam -> Camera
+Docking Station -> Microphone, Webcam, Speaker
+Laptop -> Microphone, Mouse, Printer
+Laptop -> Keyboard, Webcam, Smartphone
+Webcam -> Headphones, Keyboard, Tablet
+Monitor -> Laptop, Keyboard, Webcam
+Smartphone -> Headphones, Laptop, Charger, Docking Station
+Docking Station -> Charger, Speaker
+Charger -> Smartwatch
+Smartphone -> Docking Station
+Camera -> Microphone, Charger, Printer, Speaker
+Mouse -> Camera, Smartphone, Speaker
+Webcam -> Headphones, Laptop, Microphone
+Mouse -> Keyboard, Printer
+Docking Station -> Laptop
+Printer -> Monitor, Webcam, Docking Station, Smartwatch
+Docking Station -> Keyboard, Tablet, Smartphone, Smartwatch
+Monitor -> Smartphone
+Webcam -> Tablet, Smartwatch
+Smartphone -> Headphones, Keyboard
+Laptop -> Headphones
+Laptop -> Printer
+Keyboard -> Headphones, Microphone, Tablet, Camera
+Laptop -> Smartphone
+Camera -> Laptop, Mouse
+Smartphone -> Webcam, Camera, Charger, Smartwatch
+Microphone -> Smartphone, Smartwatch
+Keyboard -> Mouse, Docking Station
+Charger -> Speaker
+Keyboard -> Tablet, Charger
+Mouse -> Headphones, Tablet, Speaker
+Monitor -> Laptop, Charger, Smartwatch
+Charger -> Headphones, Microphone, Webcam, Docking Station
+Mouse -> Microphone, Monitor
+Laptop -> Microphone, Mouse, Webcam, Tablet
+Tablet -> Laptop, Mouse, Keyboard, Smartphone
+Docking Station -> Smartphone
+Headphones -> Microphone, Keyboard, Webcam
+Docking Station -> Laptop, Microphone, Mouse, Webcam
+Speaker -> Tablet
+Printer -> Camera, Smartphone, Smartwatch, Speaker
+Webcam -> Headphones, Printer, Smartwatch
+Camera -> Laptop, Webcam
+Docking Station -> Keyboard, Camera
+Tablet -> Charger
+Webcam -> Camera, Smartphone, Smartwatch
+Smartphone -> Microphone, Mouse
+Smartphone -> Camera, Docking Station
+Speaker -> Mouse, Tablet, Charger, Camera
+Laptop -> Webcam, Charger, Camera, Docking Station
+Headphones -> Charger, Smartphone
+Keyboard -> Headphones, Printer
+Keyboard -> Laptop, Microphone, Smartphone, Docking Station
+Laptop -> Tablet, Docking Station
+Headphones -> Mouse, Webcam
+Smartphone -> Monitor
+Microphone -> Keyboard, Webcam, Smartphone, Docking Station
+Docking Station -> Monitor, Keyboard, Speaker
+Microphone -> Laptop, Webcam, Speaker
+Smartphone -> Headphones, Laptop, Printer, Smartwatch
+Laptop -> Microphone, Smartwatch
+Headphones -> Laptop, Camera, Docking Station, Speaker
+Microphone -> Monitor, Webcam, Smartphone
+Speaker -> Headphones, Mouse, Keyboard, Charger
+Webcam -> Laptop, Printer, Docking Station
+Laptop -> Microphone, Tablet, Charger, Speaker
+Headphones -> Mouse, Tablet, Printer, Docking Station
+Charger -> Laptop, Webcam, Smartphone, Docking Station
+Webcam -> Mouse, Printer, Docking Station, Speaker
+Microphone -> Monitor
+Mouse -> Camera, Charger, Smartphone, Smartwatch
+Mouse -> Docking Station
+Smartwatch -> Headphones, Tablet, Printer, Docking Station
+Keyboard -> Microphone
+Monitor -> Mouse, Keyboard, Smartphone, Smartwatch
+Smartwatch -> Docking Station
+Headphones -> Mouse, Camera, Smartphone, Smartwatch
+Monitor -> Laptop, Keyboard, Camera
+Mouse -> Laptop
+Smartwatch -> Laptop, Smartphone, Docking Station, Speaker
+Headphones -> Keyboard
+Microphone -> Laptop, Printer
+Headphones -> Webcam, Charger, Smartphone, Smartwatch
+Smartphone -> Laptop, Camera
+Smartwatch -> Laptop, Webcam, Camera
+Microphone -> Tablet
+Speaker -> Headphones, Laptop, Microphone, Monitor
+Mouse -> Microphone, Webcam
+Smartwatch -> Laptop, Microphone, Webcam, Docking Station
+Laptop -> Mouse
+Headphones -> Mouse
+Printer -> Charger
+Docking Station -> Keyboard, Charger, Speaker
+Docking Station -> Headphones, Monitor, Charger, Speaker
+Webcam -> Printer
+Docking Station -> Tablet
+Smartphone -> Headphones, Smartwatch
+Charger -> Monitor
+Smartwatch -> Monitor, Smartphone, Speaker
+Docking Station -> Smartwatch
+Keyboard -> Monitor, Webcam, Smartphone, Smartwatch
+Keyboard -> Microphone
+Docking Station -> Microphone, Webcam
+Charger -> Keyboard, Speaker
+Speaker -> Headphones, Microphone, Charger
+Printer -> Microphone, Webcam, Smartphone
+Smartphone -> Mouse, Tablet, Printer, Smartwatch
+Smartphone -> Laptop, Keyboard, Tablet
+Camera -> Headphones, Laptop, Printer
+Microphone -> Charger, Printer, Speaker
+Laptop -> Monitor, Charger, Speaker
+Camera -> Headphones, Microphone, Docking Station, Smartwatch
+Docking Station -> Laptop, Monitor, Tablet, Smartphone
+Headphones -> Laptop, Microphone, Smartwatch, Speaker
+Smartwatch -> Headphones, Laptop
+Camera -> Laptop
+Headphones -> Laptop, Microphone, Webcam
+Smartphone -> Laptop, Charger
+Docking Station -> Headphones, Keyboard, Charger
+Webcam -> Mouse, Printer
+Mouse -> Printer
+Laptop -> Keyboard, Tablet, Charger
+Printer -> Laptop, Monitor, Charger, Smartwatch
+Camera -> Keyboard, Docking Station
+Mouse -> Microphone, Printer, Smartphone, Speaker
+Smartphone -> Docking Station
+Printer -> Smartphone
+Headphones -> Monitor, Tablet, Smartwatch
+Webcam -> Smartphone, Speaker
+Smartwatch -> Monitor
+Monitor -> Laptop, Keyboard, Webcam
+Webcam -> Headphones, Laptop, Smartwatch
+Mouse -> Keyboard, Webcam, Speaker
+Speaker -> Headphones, Monitor, Printer, Smartphone
+Laptop -> Mouse, Tablet, Smartphone
+Keyboard -> Microphone, Smartphone, Speaker
+Smartwatch -> Laptop, Camera, Charger
+Keyboard -> Smartphone, Speaker
+Laptop -> Headphones
+Printer -> Laptop
+Headphones -> Microphone, Monitor, Keyboard, Charger
+Docking Station -> Camera
+Docking Station -> Monitor, Printer, Speaker
+Microphone -> Laptop
+Smartphone -> Headphones, Charger, Camera
+Monitor -> Headphones
+Keyboard -> Headphones, Printer, Smartwatch
+Microphone -> Mouse, Smartwatch, Speaker
+Keyboard -> Charger, Smartphone, Speaker
+Headphones -> Tablet, Printer, Smartphone
+Speaker -> Mouse
+Tablet -> Microphone
+Speaker -> Monitor, Printer, Smartwatch
+Speaker -> Headphones, Monitor, Webcam, Smartwatch
+Tablet -> Headphones, Mouse, Docking Station, Speaker
+Docking Station -> Headphones, Camera, Smartwatch
+Microphone -> Laptop, Monitor, Charger
+Keyboard -> Monitor, Printer
+Charger -> Microphone, Tablet
+Charger -> Smartwatch, Speaker
+Microphone -> Printer, Smartphone, Smartwatch, Docking Station
+Camera -> Mouse, Webcam, Smartwatch
+Speaker -> Headphones, Monitor, Smartphone
+Mouse -> Camera, Smartphone
+Keyboard -> Mouse, Tablet, Printer
+Webcam -> Headphones, Camera, Smartphone, Docking Station
+Webcam -> Headphones, Docking Station
+Monitor -> Webcam
+Charger -> Printer, Smartphone, Smartwatch
+Smartwatch -> Laptop
+Monitor -> Mouse
+Tablet -> Headphones, Charger, Printer, Docking Station
+Webcam -> Microphone, Mouse
+Smartwatch -> Tablet, Smartphone
+Laptop -> Headphones, Mouse, Tablet
+Keyboard -> Microphone
+Webcam -> Headphones, Microphone, Charger, Smartphone
+Headphones -> Speaker
+Speaker -> Webcam, Tablet, Printer, Smartphone
+Tablet -> Smartwatch
+Charger -> Laptop, Keyboard, Tablet
+Printer -> Laptop, Mouse, Speaker
+Microphone -> Tablet, Charger, Docking Station
+Speaker -> Charger, Camera
+Keyboard -> Monitor, Printer, Docking Station, Smartwatch
+Docking Station -> Mouse
+Docking Station -> Headphones, Monitor, Mouse, Webcam
+Charger -> Camera, Printer
+Smartphone -> Headphones, Laptop, Mouse, Keyboard
+Charger -> Monitor, Webcam, Camera, Printer
+Mouse -> Keyboard, Webcam, Camera, Smartwatch
+Smartwatch -> Headphones, Charger
+Charger -> Microphone, Keyboard, Camera
+Laptop -> Keyboard, Webcam
+Speaker -> Headphones, Laptop
+Speaker -> Printer
+Speaker -> Printer, Smartphone
+Camera -> Microphone, Smartphone
+Tablet -> Mouse, Keyboard, Webcam, Docking Station
+Docking Station -> Tablet, Smartwatch
+Headphones -> Monitor, Webcam
+Speaker -> Headphones, Printer
+Webcam -> Headphones, Monitor
+Camera -> Tablet, Docking Station
+Smartphone -> Laptop, Microphone, Printer, Smartwatch
+Docking Station -> Smartwatch
+Keyboard -> Headphones, Monitor
+Charger -> Keyboard, Webcam, Smartphone, Docking Station
+Smartwatch -> Tablet, Printer, Smartphone, Docking Station
+Tablet -> Laptop, Smartphone, Smartwatch
+Microphone -> Headphones, Webcam, Charger, Speaker
+Webcam -> Monitor
+Printer -> Mouse, Docking Station
+Mouse -> Printer, Smartwatch, Docking Station
+Charger -> Mouse, Printer
+Tablet -> Webcam, Smartphone, Smartwatch, Speaker
+Headphones -> Speaker
+Smartphone -> Laptop
+Headphones -> Keyboard, Webcam, Tablet, Printer
+Tablet -> Charger
+Smartwatch -> Monitor, Webcam
+Laptop -> Microphone, Camera
+Smartwatch -> Laptop, Monitor, Keyboard
+Docking Station -> Camera, Charger, Smartphone
+Smartwatch -> Headphones, Webcam, Charger, Smartphone
+Mouse -> Headphones, Laptop, Microphone, Printer
+Headphones -> Camera
+Monitor -> Camera, Smartwatch
+Smartphone -> Webcam
+Smartwatch -> Charger
+Printer -> Laptop
+Laptop -> Monitor, Printer, Speaker
+Smartwatch -> Charger, Speaker
+Printer -> Headphones, Charger
+Laptop -> Headphones, Monitor, Smartphone
+Microphone -> Keyboard, Charger, Docking Station
+Speaker -> Laptop, Mouse
+Smartphone -> Tablet, Camera, Printer
+Mouse -> Microphone, Printer
+Camera -> Headphones, Webcam, Tablet, Printer
+Charger -> Headphones, Smartwatch
+Charger -> Camera, Printer, Smartphone
+Keyboard -> Monitor
+Docking Station -> Monitor, Keyboard, Charger, Camera
+Headphones -> Webcam, Camera, Smartphone, Speaker
+Webcam -> Monitor, Docking Station
+Docking Station -> Tablet, Charger, Smartphone
+Headphones -> Monitor, Mouse, Printer
+Monitor -> Webcam
+Charger -> Smartphone, Speaker
+Docking Station -> Laptop
+Charger -> Microphone, Tablet, Docking Station, Speaker
+Camera -> Charger, Docking Station
+Mouse -> Tablet
+Webcam -> Docking Station
+Smartwatch -> Laptop, Tablet, Printer, Smartphone
+Docking Station -> Charger, Printer
+Webcam -> Mouse, Tablet, Camera
+Headphones -> Microphone, Tablet, Printer
+Monitor -> Webcam, Printer, Smartwatch
+Microphone -> Laptop, Printer, Smartphone, Smartwatch
+Headphones -> Mouse, Camera
+Laptop -> Headphones, Webcam
+Keyboard -> Headphones, Mouse, Printer, Docking Station
+Tablet -> Keyboard
+Tablet -> Headphones
+Keyboard -> Tablet, Camera, Docking Station, Speaker
+Webcam -> Microphone
+Headphones -> Smartphone, Smartwatch
+Tablet -> Charger, Docking Station, Smartwatch
+Camera -> Docking Station
+Camera -> Headphones, Webcam, Smartwatch
+Camera -> Laptop
+Printer -> Webcam
+Laptop -> Headphones, Monitor, Printer
+Smartwatch -> Laptop, Monitor, Keyboard, Camera
+Docking Station -> Laptop, Mouse, Camera
+Mouse -> Microphone, Webcam, Charger, Smartwatch
+Camera -> Laptop, Smartphone
+Camera -> Headphones, Charger, Printer, Docking Station
+Headphones -> Laptop, Docking Station, Speaker
+Headphones -> Keyboard, Camera
+Charger -> Webcam, Tablet, Printer, Smartphone
+Monitor -> Laptop, Smartwatch
+Printer -> Docking Station
+Charger -> Microphone, Webcam, Speaker
+Smartwatch -> Laptop, Speaker
+Camera -> Keyboard, Speaker
+Tablet -> Webcam, Smartphone, Speaker
+Camera -> Laptop, Smartwatch
+Webcam -> Smartwatch
+Webcam -> Microphone, Mouse, Charger
+Smartwatch -> Headphones, Laptop, Keyboard, Speaker
+Microphone -> Smartwatch
+Monitor -> Headphones, Microphone, Keyboard, Docking Station
+Smartwatch -> Headphones, Mouse, Keyboard, Speaker
+Monitor -> Speaker
+Smartwatch -> Laptop, Keyboard, Charger
+Laptop -> Tablet
+Speaker -> Headphones, Mouse
+Charger -> Monitor
+Mouse -> Microphone, Tablet, Printer
+Camera -> Monitor, Docking Station
+Webcam -> Microphone, Mouse, Charger
+Camera -> Smartphone
+Speaker -> Headphones, Monitor, Keyboard, Printer
+Charger -> Smartphone, Speaker
+Webcam -> Smartphone
+Laptop -> Tablet, Docking Station
+Laptop -> Charger, Printer
+Headphones -> Laptop, Microphone, Webcam, Speaker
+Tablet -> Microphone
+Monitor -> Headphones, Laptop, Camera, Printer
+Charger -> Headphones, Microphone, Tablet, Printer
+Webcam -> Camera
+Smartphone -> Headphones
+Tablet -> Monitor
+Keyboard -> Microphone, Monitor, Charger, Docking Station
+Printer -> Monitor, Mouse
+Charger -> Speaker
+Webcam -> Laptop, Camera, Smartphone
+Smartphone -> Laptop, Keyboard
+Mouse -> Webcam
+Charger -> Monitor, Smartwatch
+Mouse -> Camera, Charger
+Keyboard -> Charger, Docking Station
+Microphone -> Monitor, Mouse, Webcam, Smartwatch
+Smartphone -> Laptop, Smartwatch, Speaker
+Camera -> Mouse
+Docking Station -> Laptop, Mouse, Camera, Speaker
+Webcam -> Headphones, Charger
+Tablet -> Microphone, Keyboard
+Charger -> Headphones, Printer, Docking Station, Speaker
+Monitor -> Headphones, Microphone, Tablet
+Microphone -> Smartphone
+Speaker -> Microphone
+Camera -> Keyboard, Charger
+Keyboard -> Docking Station
+Speaker -> Laptop, Mouse, Keyboard, Docking Station
+Docking Station -> Headphones, Mouse, Webcam, Printer
+Mouse -> Headphones, Laptop, Camera, Printer
+Keyboard -> Mouse, Camera, Speaker
+Docking Station -> Headphones, Charger
+Smartwatch -> Headphones, Microphone, Camera
+Mouse -> Microphone, Charger, Smartphone
+Webcam -> Microphone, Docking Station
+Smartwatch -> Webcam
+Webcam -> Mouse
+Speaker -> Laptop
+Webcam -> Mouse, Tablet, Camera
+Microphone -> Mouse, Keyboard
+Smartwatch -> Webcam
+Mouse -> Microphone, Tablet, Printer
+Speaker -> Mouse, Keyboard, Tablet
+Headphones -> Webcam
+Camera -> Laptop
+Smartwatch -> Laptop, Microphone, Monitor, Smartphone
+Smartwatch -> Microphone, Monitor, Webcam, Smartphone
+Keyboard -> Mouse, Charger, Smartwatch, Speaker
+Microphone -> Laptop, Mouse, Charger, Docking Station
+Keyboard -> Mouse
+Mouse -> Tablet, Docking Station
+Smartphone -> Microphone, Webcam, Smartwatch, Docking Station
+Microphone -> Smartphone, Smartwatch, Docking Station
+Smartphone -> Mouse, Keyboard, Speaker
+Smartwatch -> Headphones, Monitor, Camera, Docking Station
+Docking Station -> Camera, Printer, Smartphone, Speaker
+Keyboard -> Webcam, Camera
+Tablet -> Printer, Speaker
+Smartwatch -> Monitor, Keyboard, Smartphone
+Keyboard -> Microphone, Mouse, Tablet, Smartwatch
+Charger -> Microphone, Smartwatch
+Monitor -> Smartphone
+Smartphone -> Monitor, Printer, Smartwatch, Docking Station
+Smartwatch -> Microphone, Charger
+Mouse -> Webcam, Docking Station
+Smartphone -> Monitor
+Printer -> Monitor, Speaker
+Microphone -> Mouse, Keyboard, Printer
+Docking Station -> Keyboard, Charger
+Webcam -> Headphones, Tablet, Printer
+Docking Station -> Mouse
+Charger -> Laptop, Mouse, Camera
+Smartwatch -> Mouse
+Monitor -> Microphone, Mouse
+Headphones -> Charger, Smartwatch
+Mouse -> Keyboard, Webcam, Tablet, Smartphone
+Smartphone -> Headphones, Speaker
+Charger -> Keyboard, Printer
+Monitor -> Keyboard, Webcam, Printer, Smartphone
+Laptop -> Mouse, Smartphone, Smartwatch
+Mouse -> Headphones, Monitor, Smartwatch
+Smartwatch -> Headphones, Laptop, Mouse, Printer
+Smartphone -> Headphones, Webcam, Tablet
+Headphones -> Mouse, Keyboard, Smartwatch
+Smartphone -> Monitor, Camera, Charger, Smartwatch
+Speaker -> Mouse, Tablet
+Mouse -> Headphones, Laptop, Webcam, Tablet
+Monitor -> Webcam, Tablet, Charger, Docking Station
+Charger -> Headphones, Laptop, Smartphone, Docking Station
+Mouse -> Laptop, Tablet, Camera
+Headphones -> Tablet, Speaker
+Speaker -> Monitor, Webcam
+Camera -> Laptop, Keyboard, Smartwatch, Docking Station
+Webcam -> Headphones, Monitor, Docking Station, Smartwatch
+Smartphone -> Keyboard, Docking Station
+Smartphone -> Keyboard, Camera, Smartwatch
+Microphone -> Monitor, Mouse, Printer, Smartwatch
+Charger -> Printer, Smartphone
+Smartphone -> Printer, Speaker
+Headphones -> Camera
+Microphone -> Keyboard, Printer, Smartwatch, Speaker
+Microphone -> Monitor, Charger, Printer
+Headphones -> Keyboard, Smartphone
+Keyboard -> Printer
+Monitor -> Speaker
+Speaker -> Headphones, Monitor, Webcam, Camera
+Docking Station -> Camera
+Mouse -> Monitor, Smartphone
+Mouse -> Headphones, Microphone, Printer, Docking Station
+Headphones -> Laptop, Smartphone, Smartwatch, Speaker
+Charger -> Printer
+Smartwatch -> Webcam
+Charger -> Mouse, Printer, Smartwatch
+Monitor -> Microphone, Mouse
+Laptop -> Tablet, Docking Station
+Charger -> Tablet
+Monitor -> Microphone, Mouse, Camera, Smartwatch
+Docking Station -> Laptop, Printer
+Charger -> Laptop, Mouse
+Monitor -> Charger
+Tablet -> Charger
+Headphones -> Monitor
+Headphones -> Microphone, Monitor, Keyboard, Docking Station
+Smartwatch -> Headphones, Monitor, Camera, Printer
+Tablet -> Headphones, Monitor, Mouse
+Microphone -> Headphones, Laptop, Printer
+Headphones -> Smartwatch
+Smartphone -> Tablet, Camera, Charger, Docking Station
+Smartphone -> Charger, Docking Station, Smartwatch
+Speaker -> Tablet, Camera
+Camera -> Smartphone
+Microphone -> Charger, Smartphone
+Docking Station -> Tablet
+Monitor -> Laptop, Camera, Docking Station
+Tablet -> Headphones, Microphone, Charger
+Smartwatch -> Headphones, Monitor, Webcam, Printer
+Headphones -> Microphone, Mouse, Tablet, Docking Station
+Monitor -> Mouse, Tablet, Charger, Printer
+Printer -> Laptop, Monitor, Smartwatch, Speaker
+Keyboard -> Printer, Smartwatch
+Smartwatch -> Webcam
+Keyboard -> Headphones, Docking Station
+Tablet -> Webcam
+Webcam -> Headphones
+Smartphone -> Keyboard, Docking Station
+Smartphone -> Camera
+Microphone -> Headphones, Monitor, Camera
+Camera -> Charger, Smartwatch
+Tablet -> Headphones, Docking Station
+Microphone -> Headphones, Webcam
+Docking Station -> Microphone, Mouse, Tablet, Printer
+Speaker -> Laptop
+Laptop -> Printer, Docking Station
+Charger -> Headphones, Laptop, Webcam, Smartphone
+Headphones -> Webcam, Charger
+Headphones -> Docking Station, Speaker
+Camera -> Laptop, Microphone, Printer, Smartphone
+Laptop -> Mouse, Printer, Smartwatch
+Webcam -> Laptop, Microphone, Monitor
+Webcam -> Laptop, Keyboard
+Docking Station -> Microphone, Monitor, Keyboard, Smartwatch
+Tablet -> Smartphone, Smartwatch
+Docking Station -> Microphone, Webcam
+Monitor -> Keyboard, Smartphone, Speaker
+Printer -> Headphones, Monitor, Camera
+Keyboard -> Headphones, Monitor, Mouse, Speaker
+Keyboard -> Headphones, Laptop, Webcam
+Keyboard -> Webcam, Smartphone, Smartwatch
+Smartwatch -> Webcam, Docking Station
+Keyboard -> Smartphone
+Tablet -> Headphones
+Headphones -> Keyboard
+Charger -> Monitor
+Charger -> Monitor, Mouse, Tablet, Camera
+Laptop -> Monitor, Keyboard, Charger, Camera
+Speaker -> Microphone
+Smartphone -> Headphones
+Speaker -> Laptop
+Speaker -> Headphones, Microphone, Smartphone
+Mouse -> Monitor, Tablet, Printer, Smartwatch
+Charger -> Headphones, Microphone, Docking Station
+Microphone -> Headphones
+Speaker -> Laptop
+Mouse -> Webcam, Charger, Smartwatch
+Printer -> Tablet, Camera
+Printer -> Keyboard, Speaker
+Webcam -> Headphones, Monitor, Docking Station
+Speaker -> Monitor, Tablet, Smartphone, Smartwatch
+Keyboard -> Laptop, Webcam, Charger, Docking Station
+Camera -> Laptop, Monitor, Charger, Docking Station
+Microphone -> Mouse, Keyboard, Webcam, Docking Station
+Laptop -> Headphones, Keyboard, Smartwatch, Speaker
+Microphone -> Monitor, Printer, Docking Station
+Camera -> Monitor, Tablet, Docking Station, Smartwatch
+Headphones -> Keyboard, Docking Station
+Microphone -> Camera
+Webcam -> Mouse, Charger, Camera, Printer
+Tablet -> Camera
+Docking Station -> Headphones, Monitor, Smartphone
+Speaker -> Laptop, Microphone, Monitor, Docking Station
+Monitor -> Webcam
+Charger -> Camera, Speaker
+Webcam -> Charger, Smartphone
+Smartwatch -> Monitor, Mouse
+Printer -> Microphone, Charger, Camera, Speaker
+Microphone -> Camera, Printer, Docking Station
+Printer -> Microphone
+Laptop -> Headphones, Tablet, Smartwatch, Speaker
+Charger -> Headphones, Camera, Smartphone, Smartwatch
+Microphone -> Laptop, Mouse, Webcam
+Mouse -> Webcam
+Speaker -> Tablet, Charger, Camera, Printer
+Smartphone -> Mouse, Webcam, Tablet
+Mouse -> Webcam
+Smartphone -> Keyboard, Tablet, Camera
+Keyboard -> Webcam
+Laptop -> Microphone, Keyboard, Docking Station
+Keyboard -> Headphones, Smartwatch
+Charger -> Microphone, Webcam, Tablet, Docking Station
+Microphone -> Headphones, Mouse
+Docking Station -> Charger, Speaker
+Mouse -> Webcam, Smartwatch
+Printer -> Monitor, Mouse, Charger, Docking Station
+Camera -> Headphones, Charger, Printer
+Microphone -> Laptop, Mouse, Keyboard, Smartphone
+Speaker -> Microphone, Smartwatch, Docking Station
+Charger -> Speaker
+Webcam -> Tablet, Camera, Smartphone
+Printer -> Microphone, Camera
+Webcam -> Tablet, Speaker
+Monitor -> Headphones, Camera
+Tablet -> Monitor
+Speaker -> Microphone, Keyboard, Docking Station
+Charger -> Camera, Docking Station
+Keyboard -> Monitor
+Charger -> Headphones, Microphone, Printer
+Smartphone -> Laptop, Webcam, Camera
+Laptop -> Camera, Smartphone
+Camera -> Monitor, Mouse, Webcam
+Tablet -> Smartphone
+Microphone -> Docking Station
+Charger -> Monitor, Keyboard, Webcam
+Monitor -> Charger
+Microphone -> Charger, Smartwatch, Speaker
+Camera -> Keyboard, Tablet
+Webcam -> Microphone
+Smartphone -> Keyboard, Webcam, Tablet, Smartwatch
+Smartphone -> Headphones, Mouse, Speaker
+Microphone -> Mouse, Keyboard, Webcam, Docking Station
+Tablet -> Printer, Smartphone, Docking Station
+Headphones -> Webcam, Camera, Docking Station, Smartwatch
+Charger -> Headphones, Tablet, Printer, Speaker
+Smartwatch -> Monitor, Keyboard, Charger
+Smartphone -> Microphone, Tablet, Smartwatch, Speaker
+Webcam -> Headphones, Monitor, Keyboard, Camera
+Webcam -> Mouse, Keyboard, Camera
+Headphones -> Smartphone
+Tablet -> Laptop, Microphone, Smartphone, Speaker
+Headphones -> Monitor, Keyboard, Webcam, Camera
+Microphone -> Monitor
+Docking Station -> Monitor, Tablet
+Monitor -> Keyboard, Webcam, Smartphone, Docking Station
+Keyboard -> Laptop, Monitor, Camera
+Mouse -> Printer, Smartwatch
+Smartwatch -> Microphone, Monitor, Smartphone, Docking Station
+Smartphone -> Monitor
+Mouse -> Headphones, Tablet
+Speaker -> Smartwatch
+Camera -> Speaker
+Mouse -> Charger, Speaker
+Smartphone -> Headphones, Microphone, Keyboard, Speaker
+Webcam -> Charger, Smartphone, Docking Station
+Charger -> Webcam
+Webcam -> Laptop, Smartphone
+Microphone -> Keyboard, Speaker
+Keyboard -> Microphone, Monitor, Tablet, Charger
+Tablet -> Microphone, Speaker
+Smartwatch -> Headphones, Laptop, Keyboard, Charger
+Monitor -> Laptop, Keyboard, Smartwatch, Speaker
+Charger -> Mouse
+Webcam -> Headphones, Laptop, Tablet, Printer
+Mouse -> Headphones, Tablet, Printer, Docking Station
+Docking Station -> Mouse
+Microphone -> Headphones, Tablet, Camera, Printer
+Mouse -> Keyboard, Webcam, Tablet, Charger
+Camera -> Headphones, Laptop, Smartphone
+Printer -> Microphone, Monitor, Mouse
+Monitor -> Keyboard
+Laptop -> Microphone, Webcam
+Laptop -> Headphones, Monitor, Mouse, Keyboard
+Mouse -> Docking Station, Speaker
+Charger -> Mouse, Camera
+Speaker -> Camera
+Headphones -> Keyboard, Docking Station
+Smartwatch -> Headphones, Laptop, Charger, Speaker
+Smartphone -> Headphones, Tablet, Camera
+Webcam -> Docking Station
+Smartphone -> Monitor, Charger, Docking Station
+Webcam -> Camera
+Charger -> Webcam, Docking Station
+Headphones -> Printer
+Docking Station -> Charger, Camera, Smartphone, Smartwatch
+Docking Station -> Headphones, Mouse
+Headphones -> Monitor, Webcam, Printer, Speaker
+Smartphone -> Laptop, Camera
+Headphones -> Microphone, Monitor, Keyboard, Speaker
+Laptop -> Keyboard, Charger, Printer
+Webcam -> Monitor, Smartphone
+Microphone -> Laptop, Keyboard, Tablet
+Webcam -> Keyboard, Charger, Smartphone
+Headphones -> Microphone, Monitor, Mouse
+Smartwatch -> Mouse, Webcam, Charger, Printer
+Camera -> Webcam, Printer, Docking Station
+Speaker -> Laptop, Charger, Smartwatch
+Speaker -> Camera
+Monitor -> Webcam, Tablet
+Docking Station -> Laptop, Microphone, Monitor
+Docking Station -> Laptop
+Laptop -> Microphone, Keyboard
+Mouse -> Headphones, Printer, Smartwatch
+Smartphone -> Microphone, Webcam, Camera, Charger
+Keyboard -> Microphone
+Microphone -> Keyboard
+Mouse -> Laptop, Camera, Printer, Smartphone
+Smartphone -> Keyboard, Tablet, Charger
+Tablet -> Microphone, Speaker
+Headphones -> Printer
+Charger -> Tablet, Printer, Smartphone, Speaker
+Camera -> Smartwatch
+Camera -> Headphones
+Monitor -> Mouse
+Laptop -> Smartwatch
+Keyboard -> Laptop, Monitor, Smartphone, Docking Station
+Printer -> Laptop, Camera, Docking Station
+Laptop -> Mouse, Speaker
+Monitor -> Microphone, Printer
+Microphone -> Smartwatch
+Laptop -> Mouse, Tablet, Smartwatch
+Printer -> Docking Station, Speaker
+Headphones -> Smartwatch
+Speaker -> Laptop, Printer, Docking Station
+Smartphone -> Laptop, Webcam
+Mouse -> Printer
+Tablet -> Laptop, Microphone, Docking Station, Speaker
+Speaker -> Monitor, Mouse
+Headphones -> Smartphone
+Headphones -> Camera, Smartphone, Speaker
+Webcam -> Keyboard
+Smartwatch -> Laptop, Tablet, Speaker
+Smartphone -> Keyboard, Webcam, Charger, Printer
+Smartwatch -> Tablet, Printer
+Docking Station -> Headphones
+Charger -> Webcam
+Keyboard -> Microphone, Monitor, Camera
+Tablet -> Microphone
+Keyboard -> Headphones, Microphone, Webcam
+Keyboard -> Headphones, Smartwatch, Speaker
+Headphones -> Monitor, Charger, Smartwatch
+Printer -> Monitor
+Printer -> Keyboard, Docking Station
+Printer -> Monitor, Webcam, Smartwatch
+Speaker -> Webcam, Charger, Smartphone, Smartwatch
+Charger -> Microphone, Camera, Smartwatch, Docking Station
+Charger -> Camera, Printer, Smartwatch
+Webcam -> Speaker
+Speaker -> Headphones, Docking Station
+Smartphone -> Docking Station
+Laptop -> Smartphone, Docking Station
+Keyboard -> Headphones, Laptop, Monitor, Charger
+Charger -> Laptop, Printer
+Tablet -> Camera, Printer, Smartphone
+Printer -> Laptop, Monitor
+Charger -> Monitor, Smartphone, Docking Station
+Headphones -> Keyboard, Camera, Smartphone, Docking Station
+Mouse -> Webcam, Charger
+Smartphone -> Mouse, Webcam, Tablet
+Docking Station -> Keyboard, Smartphone
+Smartwatch -> Monitor
+Laptop -> Monitor, Keyboard, Webcam, Charger
+Smartwatch -> Keyboard
+Printer -> Keyboard, Smartphone
+Charger -> Headphones, Mouse, Docking Station
+Speaker -> Microphone, Mouse, Smartphone, Docking Station
+Mouse -> Laptop, Monitor, Docking Station, Speaker
+Monitor -> Smartwatch
+Charger -> Printer, Smartwatch
+Mouse -> Headphones, Microphone
+Tablet -> Headphones, Mouse, Printer
+Mouse -> Keyboard, Webcam
+Monitor -> Tablet, Smartphone
+Smartphone -> Laptop, Microphone, Webcam, Printer
+Webcam -> Microphone, Tablet, Smartphone
+Printer -> Microphone, Keyboard, Webcam, Camera
+Tablet -> Webcam
+Docking Station -> Laptop
+Smartwatch -> Mouse, Tablet, Camera, Charger
+Microphone -> Tablet, Smartwatch
+Mouse -> Headphones, Printer, Smartwatch
+Microphone -> Monitor, Speaker
+Smartwatch -> Microphone, Mouse
+Webcam -> Docking Station
+Monitor -> Microphone, Keyboard, Charger, Speaker
+Microphone -> Headphones, Smartphone, Speaker
+Smartwatch -> Laptop, Camera, Printer
+Keyboard -> Webcam, Camera, Smartphone
+Smartwatch -> Camera, Speaker
+Charger -> Monitor, Webcam, Smartphone, Speaker
+Headphones -> Laptop, Charger, Docking Station
+Mouse -> Speaker
+Monitor -> Microphone
+Speaker -> Headphones, Webcam, Tablet, Charger
+Microphone -> Charger
+Camera -> Headphones, Webcam, Printer, Smartphone
+Printer -> Mouse, Camera
+Printer -> Headphones, Microphone, Charger
+Printer -> Mouse, Keyboard, Charger, Smartphone
+Monitor -> Laptop, Keyboard, Tablet, Charger
+Smartphone -> Monitor
+Headphones -> Microphone, Monitor, Camera
+Printer -> Monitor, Webcam
+Charger -> Speaker
+Webcam -> Headphones, Smartwatch
+Camera -> Charger
+Smartwatch -> Webcam, Printer
+Speaker -> Charger
+Printer -> Monitor, Tablet, Smartphone
+Speaker -> Laptop, Mouse, Webcam, Charger
+Camera -> Monitor, Tablet, Charger
+Headphones -> Laptop, Monitor, Tablet, Smartwatch
+Headphones -> Microphone, Smartphone, Smartwatch
+Mouse -> Monitor, Keyboard, Webcam, Printer
+Docking Station -> Laptop, Smartphone, Smartwatch
+Tablet -> Charger
+Microphone -> Headphones, Laptop, Mouse
+Speaker -> Monitor, Tablet, Docking Station
+Microphone -> Laptop, Smartwatch, Docking Station, Speaker
+Smartwatch -> Microphone, Mouse, Keyboard
+Keyboard -> Headphones
+Smartwatch -> Webcam, Docking Station
+Monitor -> Microphone, Docking Station, Smartwatch
+Charger -> Laptop, Microphone, Monitor
+Camera -> Charger, Docking Station
+Mouse -> Laptop, Printer, Speaker
+Headphones -> Printer
+Charger -> Mouse, Printer, Speaker
+Mouse -> Laptop, Monitor
+Printer -> Microphone, Mouse, Charger, Smartphone
+Smartphone -> Laptop, Microphone, Docking Station
+Monitor -> Laptop, Smartwatch
+Smartwatch -> Keyboard, Docking Station
+Mouse -> Monitor, Camera, Smartphone, Smartwatch
+Smartwatch -> Headphones, Mouse
+Microphone -> Laptop, Printer, Smartwatch, Speaker
+Smartphone -> Keyboard, Webcam, Smartwatch
+Smartphone -> Microphone, Docking Station
+Microphone -> Laptop, Webcam, Smartwatch, Docking Station
+Monitor -> Headphones
+Tablet -> Smartwatch
+Speaker -> Laptop, Mouse, Charger, Printer
+Charger -> Docking Station
+Smartphone -> Headphones, Charger
+Microphone -> Docking Station
+Keyboard -> Microphone
+Camera -> Webcam
+Keyboard -> Microphone, Monitor, Docking Station, Speaker
+Mouse -> Headphones, Charger, Smartphone
+Tablet -> Smartphone
+Headphones -> Laptop, Tablet
+Laptop -> Keyboard, Webcam, Printer, Smartwatch
+Tablet -> Mouse
+Mouse -> Laptop, Keyboard, Smartwatch
+Docking Station -> Laptop, Monitor, Keyboard, Printer
+Charger -> Microphone, Monitor, Smartwatch
+Mouse -> Headphones, Camera, Charger, Smartwatch
+Docking Station -> Webcam, Smartphone
+Microphone -> Laptop, Speaker
+Mouse -> Laptop, Webcam, Tablet
+Webcam -> Headphones, Mouse, Smartphone, Smartwatch
+Smartphone -> Webcam
+Headphones -> Docking Station, Smartwatch
+Headphones -> Monitor, Mouse, Smartphone
+Speaker -> Mouse, Keyboard, Webcam, Smartwatch
+Docking Station -> Headphones
+Printer -> Keyboard, Docking Station, Speaker
+Camera -> Mouse
+Printer -> Laptop
+Docking Station -> Mouse, Webcam, Speaker
+Docking Station -> Keyboard, Webcam
+Mouse -> Headphones, Webcam
+Headphones -> Laptop, Printer, Smartwatch
+Keyboard -> Webcam, Tablet
+Keyboard -> Mouse, Smartphone, Docking Station, Speaker
+Docking Station -> Webcam, Tablet, Camera, Smartphone
+Microphone -> Keyboard, Charger, Printer
+Microphone -> Headphones, Mouse, Smartphone
+Laptop -> Monitor, Mouse, Keyboard, Tablet
+Smartwatch -> Laptop, Smartphone
+Tablet -> Docking Station, Speaker
+Charger -> Printer
+Laptop -> Headphones, Smartphone, Docking Station, Speaker
+Webcam -> Microphone, Camera, Smartwatch
+Tablet -> Laptop, Microphone, Webcam, Smartphone
+Smartwatch -> Speaker
+Headphones -> Mouse, Tablet, Smartwatch
+Mouse -> Tablet, Charger
+Docking Station -> Monitor, Mouse, Keyboard, Speaker
+Printer -> Mouse
+Webcam -> Charger
+Printer -> Headphones, Webcam, Speaker
+Smartwatch -> Headphones, Camera, Printer
+Tablet -> Laptop, Microphone, Smartphone, Docking Station
+Camera -> Tablet
+Speaker -> Headphones, Microphone
+Headphones -> Microphone
+Microphone -> Smartwatch
+Microphone -> Mouse, Smartwatch
+Keyboard -> Mouse, Camera, Smartwatch
+Tablet -> Microphone, Monitor, Keyboard, Charger
+Mouse -> Tablet
+Headphones -> Mouse, Smartphone
+Laptop -> Smartphone
+Smartphone -> Laptop, Camera, Printer, Speaker
+Charger -> Webcam
+Charger -> Headphones, Monitor, Smartwatch
+Microphone -> Headphones, Tablet
+Keyboard -> Camera, Printer, Docking Station, Speaker
+Charger -> Laptop, Tablet, Camera
+Keyboard -> Laptop, Monitor, Mouse, Smartwatch
+Docking Station -> Charger
+Printer -> Monitor, Mouse, Charger, Camera
+Tablet -> Printer
+Docking Station -> Laptop, Printer, Smartphone, Speaker
+Monitor -> Keyboard, Tablet
+Tablet -> Charger, Speaker
+Mouse -> Smartwatch
+Speaker -> Headphones, Printer, Docking Station
+Smartphone -> Laptop, Microphone, Printer, Speaker
+Webcam -> Headphones, Charger, Smartphone
+Webcam -> Charger, Smartphone
+Printer -> Webcam, Smartphone
+Webcam -> Mouse, Keyboard, Smartwatch
+Monitor -> Microphone
+Camera -> Laptop, Microphone, Printer
+Charger -> Monitor, Mouse, Camera
+Laptop -> Monitor, Keyboard, Smartphone, Docking Station
+Mouse -> Headphones
+Camera -> Microphone, Docking Station, Speaker
+Mouse -> Laptop, Tablet, Smartwatch, Speaker
+Smartphone -> Keyboard
+Monitor -> Mouse
+Keyboard -> Laptop, Smartwatch
+Speaker -> Laptop, Camera
+Mouse -> Camera
+Webcam -> Charger, Printer, Docking Station
+Smartwatch -> Monitor, Keyboard, Webcam, Printer
+Webcam -> Docking Station
+Charger -> Tablet
+Microphone -> Mouse, Keyboard, Webcam
+Tablet -> Laptop, Mouse, Smartphone, Docking Station
+Microphone -> Docking Station
+Laptop -> Headphones
+Docking Station -> Headphones, Camera
+Mouse -> Laptop, Microphone
+Smartwatch -> Camera
+Tablet -> Mouse
+Laptop -> Keyboard, Speaker
+Tablet -> Charger
+Camera -> Monitor, Webcam, Tablet
+Camera -> Headphones, Docking Station
+Tablet -> Keyboard, Printer
+Docking Station -> Monitor, Mouse, Charger, Smartwatch
+Mouse -> Webcam, Printer, Docking Station
+Mouse -> Headphones
+Printer -> Headphones, Keyboard, Speaker
+Docking Station -> Keyboard, Camera
+Microphone -> Monitor, Printer, Smartphone, Docking Station
+Printer -> Laptop, Smartphone
+Monitor -> Laptop
+Docking Station -> Laptop, Keyboard
+Charger -> Headphones, Camera, Smartwatch
+Webcam -> Smartwatch
+Tablet -> Microphone, Mouse, Speaker
+Charger -> Headphones, Monitor, Smartwatch, Speaker
+Microphone -> Monitor, Webcam, Tablet, Printer
+Mouse -> Microphone
+Laptop -> Tablet, Camera, Printer, Docking Station
+Charger -> Headphones, Printer
+Smartphone -> Headphones, Mouse, Docking Station, Speaker
+Charger -> Smartwatch
+Smartphone -> Microphone, Webcam, Charger, Camera
+Smartwatch -> Laptop, Microphone, Printer, Speaker
+Laptop -> Keyboard
+Printer -> Keyboard, Tablet, Smartwatch
+Docking Station -> Monitor, Tablet, Camera, Charger
+Printer -> Webcam
+Docking Station -> Microphone, Monitor, Speaker
+Charger -> Headphones, Microphone, Monitor
+Smartphone -> Headphones, Mouse, Charger, Speaker
+Laptop -> Headphones, Tablet, Printer, Speaker
+Monitor -> Laptop, Microphone, Keyboard, Docking Station
+Tablet -> Webcam
+Monitor -> Headphones, Tablet, Docking Station
+Mouse -> Headphones, Smartphone, Smartwatch
+Smartwatch -> Charger, Printer
+Smartwatch -> Speaker
+Webcam -> Headphones, Laptop, Monitor, Smartwatch
+Docking Station -> Headphones, Microphone, Webcam, Printer
+Smartwatch -> Tablet
+Headphones -> Mouse, Webcam
+Microphone -> Webcam, Tablet, Camera
+Charger -> Headphones
+Keyboard -> Camera, Smartphone, Smartwatch
+Smartphone -> Monitor
+Smartwatch -> Headphones, Keyboard, Webcam, Docking Station
+Keyboard -> Camera
+Tablet -> Keyboard, Charger
+Keyboard -> Charger, Smartwatch
+Camera -> Headphones, Microphone, Mouse
+Smartphone -> Laptop, Camera, Printer, Speaker
+Headphones -> Camera
+Mouse -> Tablet, Camera, Smartwatch
+Smartwatch -> Monitor, Mouse, Tablet
+Keyboard -> Tablet, Camera
+Docking Station -> Headphones
+Tablet -> Keyboard
+Monitor -> Smartphone, Speaker
+Webcam -> Laptop, Camera, Charger, Smartwatch
+Speaker -> Headphones
+Docking Station -> Monitor, Mouse, Smartwatch
+Webcam -> Laptop
+Docking Station -> Smartwatch
+Laptop -> Mouse
+Camera -> Microphone, Keyboard
+Docking Station -> Mouse, Keyboard, Camera
+Microphone -> Monitor, Keyboard, Webcam, Speaker
+Printer -> Headphones, Monitor, Mouse
+Mouse -> Monitor, Webcam, Charger, Speaker
+Smartwatch -> Microphone, Mouse, Tablet, Speaker
+Microphone -> Laptop, Smartphone, Docking Station, Speaker
+Smartwatch -> Headphones, Mouse
+Microphone -> Headphones, Mouse, Keyboard, Docking Station
+Docking Station -> Laptop, Camera, Smartwatch, Speaker
+Microphone -> Keyboard, Printer, Smartphone
+Camera -> Monitor
+Webcam -> Charger
+Printer -> Keyboard
+Keyboard -> Monitor, Speaker
+Headphones -> Webcam, Docking Station
+Tablet -> Keyboard
+Keyboard -> Mouse, Charger, Smartphone
+Smartwatch -> Keyboard, Charger, Docking Station
+Headphones -> Monitor, Docking Station
+Monitor -> Headphones, Microphone, Mouse, Speaker
+Laptop -> Docking Station
+Tablet -> Laptop
+Smartphone -> Tablet, Docking Station
+Camera -> Microphone, Mouse, Keyboard, Docking Station
+Monitor -> Mouse, Keyboard, Webcam, Docking Station
+Smartphone -> Microphone, Keyboard
+Camera -> Laptop, Monitor, Smartwatch
+Camera -> Monitor, Smartwatch
+Microphone -> Mouse, Speaker
+Monitor -> Mouse
+Docking Station -> Monitor, Webcam, Camera, Smartwatch
+Mouse -> Tablet, Speaker
+Tablet -> Monitor, Camera, Smartwatch, Docking Station
+Printer -> Keyboard, Smartphone
+Smartwatch -> Webcam
+Laptop -> Printer
+Keyboard -> Microphone, Monitor, Webcam, Docking Station
+Camera -> Microphone
+Docking Station -> Headphones, Mouse, Camera, Smartwatch
+Keyboard -> Tablet
+Printer -> Laptop
+Smartphone -> Laptop, Microphone, Charger
+Printer -> Headphones, Mouse, Speaker
+Docking Station -> Keyboard
+Smartphone -> Microphone, Monitor, Mouse
+Webcam -> Monitor
+Mouse -> Headphones, Tablet, Smartwatch, Speaker
+Camera -> Keyboard, Charger, Printer, Smartwatch
+Printer -> Monitor, Keyboard, Charger, Speaker
+Microphone -> Keyboard
+Webcam -> Tablet
+Smartwatch -> Smartphone
+Keyboard -> Tablet
+Webcam -> Camera
